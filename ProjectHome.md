@@ -1,0 +1,1 @@
+An application that will allow Android enabled handsets access to their Smile bank account.
